@@ -1,13 +1,13 @@
-# OpenCV-People-Counting
+# Real-Time-Human-Detection-and-Counting
 
 
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/OpenCV-People-Counting-.git
+git clone https://github.com/VenkateshBadiger/Real-Time-Human-Detection-and-Counting.git
 ```
 - Goto the cloned folder.
 ```
-cd OpenCV-People-Counting-
+cd Real-Time-Human-Detection-and-Counting
 
 ```
 - Upgrade pip with mentioned command below.
@@ -22,8 +22,4 @@ pip install -r requirements.txt
 
 ` python python counter.py `
 
-
-
-## Example Results
-![Example Results](https://github.com/noorkhokhar99/OpenCV-People-Counting-/blob/main/Screen%20Shot%202022-12-05%20at%2011.54.38%20pm.png)
 
